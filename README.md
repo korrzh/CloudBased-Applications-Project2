@@ -1,6 +1,6 @@
 # CloudBased-Applications-Project2
 
-### YouTube Link
+### YouTube Link https://youtu.be/l6XaDxt9AiM
 
 This project provides scripts to analyze temperature data using two different tools: PySpark and MongoDB. The scripts answer three questions:
 
